@@ -1,0 +1,7 @@
+# Your environment files should be here
+
+- Required files
+
+.testing.env
+.development.env
+.production.env
